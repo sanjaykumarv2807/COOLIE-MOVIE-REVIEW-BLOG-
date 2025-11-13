@@ -3,164 +3,107 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>The Power of Small Habits</title>
+    <title>Coolie (2025) - Movie Review</title>
     <style>
         body {
-            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-family: Arial, sans-serif;
             line-height: 1.6;
             color: #333;
             max-width: 800px;
             margin: 0 auto;
             padding: 20px;
-            background-color: #f9f9f9;
         }
         header {
-            text-align: center;
-            margin-bottom: 40px;
-            border-bottom: 2px solid #e0e0e0;
+            border-bottom: 2px solid #333;
             padding-bottom: 20px;
+            margin-bottom: 20px;
         }
         h1 {
-            color: #2c3e50;
-            margin-bottom: 10px;
+            color: #d32f2f;
+            font-size: 2.5em;
+            margin-bottom: 0.2em;
         }
-        .subtitle {
-            font-size: 1.2em;
-            color: #555;
-            margin-top: 0;
-        }
-        .date {
-            font-size: 0.9em;
-            color: #777;
-            font-style: italic;
+        .movie-details {
+            background-color: #f4f4f4;
+            padding: 15px;
+            border-radius: 5px;
+            margin-bottom: 20px;
         }
         h2 {
-            color: #2980b9;
-            margin-top: 30px;
-            border-left: 4px solid #2980b9;
+            color: #1976d2;
+            border-left: 5px solid #1976d2;
             padding-left: 10px;
+            margin-top: 30px;
         }
-        h3 {
-            color: #34495e;
-            margin-top: 25px;
-        }
-        p {
-            margin-bottom: 15px;
-        }
-        blockquote {
-            background-color: #eef7fa;
-            border-left: 5px solid #2980b9;
-            margin: 20px 0;
-            padding: 15px 20px;
-            font-style: italic;
-            color: #555;
-        }
-        blockquote footer {
-            margin-top: 10px;
-            font-weight: bold;
-            font-style: normal;
-            font-size: 0.9em;
-            text-align: right;
-        }
-        ol {
-            background: #fff;
-            border: 1px solid #ddd;
-            padding: 20px 20px 20px 40px;
-            border-radius: 8px;
-        }
-        li {
-            margin-bottom: 15px;
-        }
-        li strong {
-            color: #2c3e50;
-            display: block;
-            margin-bottom: 5px;
-        }
-        .final-thoughts {
-            background-color: #2c3e50;
-            color: #fff;
+        .verdict {
+            background-color: #e8f5e9;
+            border: 1px solid #c8e6c9;
             padding: 20px;
+            margin-top: 30px;
             border-radius: 8px;
-            margin-top: 40px;
         }
-        .final-thoughts h2 {
-            color: #fff;
-            border-left: 4px solid #fff;
+        .rating {
+            font-weight: bold;
+            font-size: 1.2em;
+            color: #388e3c;
         }
     </style>
 </head>
 <body>
 
-    <header>
-        <h1>The Power of Small Habits</h1>
-        <p class="subtitle">How Tiny Actions Create Massive Change</p>
-        <p class="date">November 09, 2025</p>
-    </header>
-
     <article>
-        <p>When we think about success, most of us imagine grand gestures — big plans, massive transformations, and life-changing moments. We assume people who achieve great things must have done something extraordinary. But if you look closer, the truth is the opposite: greatness often begins with something incredibly small — a single habit.</p>
+        <header>
+            [span_0](start_span)<h1>Coolie (2025) - Rajinikanth's Spectacular Return[span_0](end_span)</h1>
+        </header>
 
-        <h2>Why Small Habits Matter</h2>
-        <p>Habits are the invisible architecture of daily life. Every day, the things we repeatedly do — whether consciously or not — shape who we become.</p>
-        <p>A single workout won’t make you fit, just like skipping one meal won’t make you unhealthy. But repeating that choice every day creates the difference between strength and weakness, growth and stagnation.</p>
-        <p>Small habits might seem insignificant at first, but they compound over time. Reading ten pages a day feels minor until a year later, when you’ve absorbed the lessons of a dozen books. Writing a few lines every morning doesn’t look like much, but soon, you’re staring at a completed journal or novel.</p>
-        <p>Consistency is the bridge between goals and results. Big ambitions fail not because they’re impossible, but because people try to achieve them all at once. They sprint instead of pacing themselves — and eventually burn out.</p>
+        <section class="movie-details">
+            [span_1](start_span)<p><strong>Director:</strong> [To be Updated][span_1](end_span)</p>
+            [span_2](start_span)<p><strong>Cast:</strong> Rajinikanth, [Supporting Cast][span_2](end_span)</p>
+            [span_3](start_span)<p><strong>Music:</strong> [Composer Name][span_3](end_span)</p>
+            [span_4](start_span)<p><strong>Cinematography:</strong> [Cinematographer Name][span_4](end_span)</p>
+            [span_5](start_span)<p><strong>Production:</strong> [Production House][span_5](end_span)</p>
+            [span_6](start_span)<p><strong>Release Date:</strong> 2025[span_6](end_span)</p>
+            [span_7](start_span)<p><strong>Genre:</strong> Action / Drama / Mass Entertainer[span_7](end_span)</p>
+        </section>
 
-        <h2>The Psychology Behind Tiny Changes</h2>
-        <p>Your brain resists change because it values comfort and familiarity. When you try to overhaul your entire routine overnight, your brain interprets it as a threat. That’s why big resolutions often collapse within weeks.</p>
-        <p>However, when you start small — say, meditating for two minutes or walking for five — it doesn’t trigger resistance. Over time, your brain adapts, and the small habit becomes part of your identity. You start thinking of yourself as someone who “shows up.” Once that identity forms, improvement becomes natural.</p>
-        <p>This is the same principle used in behavioral science, known as <strong>habit stacking</strong> — attaching a new behavior to an existing one. For example, if you want to start journaling, you can decide, “I’ll write for two minutes right after brushing my teeth.” It’s small, but it works because it builds consistency.</p>
+        <section>
+            <h2>C - Charismatic Performance</h2>
+            [span_8](start_span)<p>Rajinikanth once again proves why he is the ultimate superstar of Indian cinema[span_8](end_span). [span_9](start_span)His on-screen charisma dominates every frame, effortlessly blending action hero energy with subtle emotional depth[span_9](end_span). [span_10](start_span)Punchy dialogues, signature gestures, and moments of vulnerability create a character who is larger-than-life yet relatable[span_10](end_span). [span_11](start_span)Every scene with him feels like an event, keeping the audience glued from start to finish[span_11](end_span).</p>
+        </section>
 
-        <h2>Small Steps, Big Results</h2>
-        <p>History and modern success stories prove this. Writers who publish bestselling books often started with a few words a day. Athletes who dominate championships built their strength from daily training sessions. Entrepreneurs who run global businesses once focused on making a single sale.</p>
-        <p>The key isn’t speed; it’s direction. Every small step forward — no matter how slow — is still progress. Even one percent improvement each day compounds to remarkable growth over time.</p>
-        
-        <blockquote>
-            “You do not rise to the level of your goals. You fall to the level of your systems.”
-            <footer>— James Clear, Atomic Habits</footer>
-        </blockquote>
-        
-        <p>Goals give you direction, but habits build the system that actually gets you there.</p>
+        <section>
+            <h2>O - Outstanding Action</h2>
+            [span_12](start_span)<p>Coolie delivers some of the year's most thrilling action sequences[span_12](end_span). [span_13](start_span)Stunts are high-octane but grounded, mixing Rajini's iconic style with practical effects[span_13](end_span). [span_14](start_span)From intense hand-to-hand combat to dramatic rescues, the choreography is precise and cinematic[span_14](end_span). [span_15](start_span)Each action sequence feels purposeful, advancing the story while giving fans adrenaline-packed moments that they will remember long after leaving the theater[span_15](end_span).</p>
+        </section>
 
-        <h2>Breaking the Myth of Motivation</h2>
-        <p>Most people wait to “feel ready” before they start something new. That’s a trap. Motivation is unreliable — it fades when things get hard. What keeps you moving is discipline.</p>
-        <p>The beauty of small habits is that they don’t require huge bursts of motivation. They’re easy enough to do, even on bad days.</p>
-        <p>You don’t need to run five kilometers every morning — just start with five minutes of walking. You don’t need to read a whole chapter — read a single page. The hardest part of any habit is starting; once you begin, momentum takes over.</p>
+        <section>
+            <h2>O - Original Storytelling</h2>
+            [span_16](start_span)<p>The narrative successfully balances classic mass-entertainer elements with contemporary storytelling[span_16](end_span). [span_17](start_span)Themes of courage, sacrifice, and social justice are woven seamlessly into a drama that keeps viewers emotionally invested[span_17](end_span). [span_18](start_span)Twists and conflicts are timed well, providing suspense and engagement without slowing down the pacing[span_18](end_span). [span_19](start_span)Coolie respects tradition while offering fresh perspectives that make it relevant today[span_19](end_span).</p>
+        </section>
 
-        <h2>How to Build a Small Habit That Sticks</h2>
-        <ol>
-            <li>
-                <strong>Start Ridiculously Small.</strong>
-                Begin with something so easy it feels almost silly. If your goal is to exercise, start with just two push-ups or a one-minute stretch.
-            </li>
-            <li>
-                <strong>Attach It to an Existing Routine.</strong>
-                Link it to something you already do daily — like “after my morning coffee” or “before going to bed.”
-            </li>
-            <li>
-                <strong>Track It Visibly.</strong>
-                Use a notebook, calendar, or app to mark your progress. Seeing your streak grow keeps you motivated.
-            </li>
-            <li>
-                <strong>Forgive Yourself Quickly.</strong>
-                Missing one day won’t ruin your progress. Missing two days might. If you slip, restart immediately.
-            </li>
-            <li>
-                <strong>Focus on Identity, Not Outcome.</strong>
-                Don’t aim to “run a marathon.” Aim to “be a runner.” Identity-based habits last longer than goal-based ones.
-            </li>
-        </ol>
+        <section>
+            <h2>L - Legendary Direction</h2>
+            [span_20](start_span)<p>The director ensures that Coolie is both visually spectacular and emotionally resonant[span_20](end_span). [span_21](start_span)Each frame highlights Rajinikanth's larger-than-life presence while allowing supporting characters to shine[span_21](end_span). [span_22](start_span)The balance between action, drama, and comedy showcases the director's skill in managing a star-driven blockbuster[span_22](end_span). [span_23](start_span)Visual motifs, camera angles, and pacing all work harmoniously, creating a cohesive cinematic experience[span_23](end_span).</p>
+        </section>
 
-        <h2>The Real Power: Becoming Consistent</h2>
-        <p>The most powerful people aren’t those who work the hardest once — they’re the ones who show up every day, even when it’s boring, tiring, or inconvenient. That quiet persistence is what separates success from failure.</p>
-        <p>When you commit to small habits, you’re training your mind for patience, consistency, and resilience. Over time, those little actions create a foundation for bigger dreams.</p>
+        <section>
+            <h2>I - Intense Music & Score</h2>
+            [span_24](start_span)<p>The film's soundtrack and background score enhance every emotional beat[span_24](end_span). [span_25](start_span)Songs accentuate romance and drama, while the BGM intensifies action sequences[span_25](end_span). [span_26](start_span)Music cues underscore tension and heroism, giving scenes added weight and cinematic flair[span_26](end_span). [span_27](start_span)This integration of music with storytelling ensures that both mass audiences and critics appreciate the layered emotional experience[span_27](end_span).</p>
+        </section>
 
-        <div class="final-thoughts">
-            <h2>Final Thoughts</h2>
-            <p>Big changes don’t happen overnight. They’re the result of small, steady actions repeated over time.</p>
-            <p>Whether it’s learning a skill, improving your health, or building confidence — the secret isn’t in doing more, but in starting small and never stopping.</p>
-            <p>So instead of waiting for the perfect day to change your life, start today — even if it’s just one tiny step. Because that’s how real transformation begins.</p>
-        </div>
+        <section>
+            <h2>E - Emotional Core</h2>
+            [span_28](start_span)<p>At its heart, Coolie is a story of human courage, love, and sacrifice[span_28](end_span). [span_29](start_span)Rajinikanth's interactions with family and friends provide warmth amid high-energy action, giving the film emotional resonance beyond spectacle[span_29](end_span). [span_30](start_span)The movie successfully blends mass entertainment with heartfelt moments, making it a complete cinematic experience[span_30](end_span).</p>
+        </section>
+
+        <section class="verdict">
+            <h3>Verdict & Legacy</h3>
+            [span_31](start_span)<p>Fans leave the theater thrilled, moved, and proud of another iconic Rajinikanth performance[span_31](end_span). [span_32](start_span)Coolie delivers a masterful combination of adrenaline-pumping action, emotional depth, and superstar charisma[span_32](end_span). [span_33](start_span)With stunning visuals, a compelling narrative, and memorable music, the film stands as a modern example of Tamil mass cinema at its finest[span_33](end_span).</p>
+            
+            [span_34](start_span)<p class="rating">Rating: ★★★★☆ 4.5/5[span_34](end_span)</p>
+            
+            [span_35](start_span)<p><strong>Final Words:</strong> A perfect blend of mass entertainment and heartfelt storytelling - Coolie roars on screen with style, emotion, and iconic Rajini magic[span_35](end_span).</p>
+        </section>
 
     </article>
 
